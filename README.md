@@ -1,5 +1,6 @@
 # Docker Kubernetes The Practical Guide
 practical pieces of work based on the content  of the Udemy course "Docker &amp; Kubernetes: The Practical Guide" authored by Maximilian Schwarzmüller Online Education
+* url: https://www.udemy.com/course/docker-kubernetes-the-practical-guide
 
 ## Course Content
 * A thorough introduction to Docker, containers and why you might want to use Docker
